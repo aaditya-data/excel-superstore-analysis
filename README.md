@@ -16,7 +16,7 @@ Dataset: Sample Superstore (public demo dataset)
 - Data Cleaning
 
 ## 📁 Files
-- `Sample_Superstore_Analysis.xlsx` – Full dashboard
+- `Superstore_Sales_Analysis.xlsx` – Full dashboard
 - `README.md` – Project summary
 
 ---
