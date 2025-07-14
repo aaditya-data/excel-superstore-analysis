@@ -22,5 +22,3 @@ Dataset: Sample Superstore (public demo dataset)
 ---
 > ✅ Built by Aaditya as part of a Data Analytics Portfolio Project
 
-# excel-sales-dashboard
-Interactive Sales Dashboard in Excel using Sample Superstore data
