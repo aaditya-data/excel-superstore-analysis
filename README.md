@@ -31,7 +31,9 @@ Dataset: Sample Superstore (public demo dataset)
 
 
 ## 📁 Files
-- `Superstore_Sales_Analysis.xlsx` – Full dashboard
+- ├── 📂 SuperStore_Sales_project/
+│   └── Sample - `Superstore.csv`
+│   └── Full dashboard - `SuperStore_Sales_Analysis.xlsx`
 - `README.md` – Project summary
 
 ## 👨‍💻 Author
