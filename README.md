@@ -36,6 +36,9 @@ Dataset: Sample Superstore (public demo dataset)
 - Full dashboard - `SuperStore_Sales_Analysis.xlsx`
 - `README.md` – Project summary
 
+  ![Dashboard Overview](images/dashboard_overview.png)
+
+
 ## 👨‍💻 Author
 
 **Aaditya Prasad**  
