@@ -36,7 +36,11 @@ Dataset: Sample Superstore (public demo dataset)
 - Full dashboard - `SuperStore_Sales_Analysis.xlsx`
 - `README.md` – Project summary
 
-  ![Dashboard Overview](images/dashboard_overview.png)
+  ## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="Superstore_Sales_Project/dashboard_overview.png" width="700" alt="Excel Superstore Sales Dashboard Overview">
+</p>
 
 
 ## 👨‍💻 Author
